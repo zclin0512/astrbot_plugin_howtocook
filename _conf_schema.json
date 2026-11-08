@@ -1,0 +1,22 @@
+{
+  "output_format": {
+    "description": "默认菜谱展示形式：card（优雅极简菜谱长图卡片，推荐聊天防刷屏）或 text（纯文本）",
+    "type": "string",
+    "default": "card"
+  },
+  "default_servings": {
+    "description": "默认做菜人数/份数（未指定份数时作为基准）",
+    "type": "int",
+    "default": 2
+  },
+  "max_recommendations": {
+    "description": "冰箱查食材时最多返回的菜品数量",
+    "type": "int",
+    "default": 5
+  },
+  "custom_font_path": {
+    "description": "（可选）容器内中文字体路径，留空则自动使用 Noto Sans/Serif CJK",
+    "type": "string",
+    "default": ""
+  }
+}

@@ -1,0 +1,7 @@
+name: astrbot_plugin_howtocook
+display_name: 程序员做饭指南 · HowToCook
+short_desc: 接入 HowToCook 370+ 道工程化量化菜谱，支持第三方链接一键收录、查菜、人数分量自适应换算、冰箱查菜与海报卡片
+desc: 基于 GitHub 103k+ Star 热门开源项目 HowToCook（程序员做饭指南）打造的 AstrBot 智能下厨伴侣。收录 370 余道官方经典菜谱与 19 项烹饪技巧；全新支持第三方链接（小红书/下厨房/B站/公众号等）一键智能提取与大模型工程化量化重构入库；支持多版本冲突自适应消解与官方库保护；支持按用餐人数动态缩放用量，提供智能“冰箱查菜”算法与极简高清长图海报排版。
+author: Antigravity
+version: 1.1.0
+astrbot_version: ">=4.26.0,<5"

@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Runtime cache and generated poster images
+cache/
+*.png
+*.jpg
+*.jpeg
+
+# User local preferences & custom imported recipes
+preferences.json
+custom_recipes.json
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
