@@ -48,7 +48,7 @@
 
 ```bash
 cd /path/to/AstrBot/data/plugins/
-git clone https://github.com/您的用户名/astrbot_plugin_howtocook.git
+git clone https://github.com/zclin0512/astrbot_plugin_howtocook.git
 ```
 
 克隆完成后，重启 AstrBot 容器或在 WebUI 重新加载插件即可生效。
